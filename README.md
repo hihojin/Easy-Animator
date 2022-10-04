@@ -1,6 +1,13 @@
 # Easy-Animator
 OOP final project following MVC design pattern.
 
+
+![night](https://user-images.githubusercontent.com/74577100/193709716-c1e45750-a6c1-4948-a70b-5feef74b6a82.gif)
+
+![big-bang-big-crunch](https://user-images.githubusercontent.com/74577100/193709793-624ad81a-f604-48c0-b8fc-8295458849a5.gif)
+
+![toh-5](https://user-images.githubusercontent.com/74577100/193709980-467f60a1-c6e2-40b9-a247-6525385b709b.gif)
+
 MVC Design guide:
 	To run the jar file:
 	- Open terminal - change directory to desktop - change directory to finalProject; where
