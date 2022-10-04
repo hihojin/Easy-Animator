@@ -1,5 +1,6 @@
 # Easy-Animator
-OOP final project following MVC design pattern
+OOP final project following MVC design pattern.
+
 MVC Design guide:
 	To run the jar file:
 	- Open terminal - change directory to desktop - change directory to finalProject; where
@@ -78,7 +79,7 @@ MVC Design guide:
 
 - Controller:
 	- I have 1 controller that calls view's display method.
-		--- (to be updated later as I work through)
+
 - View:
 	-factory view: takes necessary inputs received from main class, pass them to each class
 	by their needs. Passes appendable for flexible output source file name for text and svg view.
